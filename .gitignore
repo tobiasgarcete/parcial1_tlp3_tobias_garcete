@@ -1,0 +1,20 @@
+#Entorno virtual
+
+env/
+ENV/
+env/
+.venv/
+
+#archhivos temporales de jupyter
+.ipynb_checkpoints/
+
+#archivos generados por el sistema
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+#archivos grandes
+*.cvs
+*.xlsx
+*.zip
